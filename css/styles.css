@@ -7,6 +7,11 @@ html, body {
   color: #222;
 }
 
+
+#float {
+  float: right;
+}
+
 #logo {
   max-width: 50%;
 }
@@ -57,7 +62,7 @@ html, body {
   border-radius: 0;
 }
 .padding {
-  padding-bottom: 2rem; 
+  padding-bottom: 2rem;
 }
 .welcome {
   width: 75%;
@@ -133,6 +138,7 @@ footer p {
 #footer-img {
   max-width: 5%;
   padding-bottom: 2rem;
+  float: left;
 }
 hr.light-100 {
   border-top: 1px solid rgb(224, 187, 20);
@@ -146,6 +152,9 @@ hr.light-100 {
   color: white;
 }
 
+#float-right {
+  float: right;
+}
 
 
 
@@ -255,11 +264,3 @@ Large (lg) devices (desktops, 992px and up)
 Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 */
-
-
-
-
-
-
-
-
