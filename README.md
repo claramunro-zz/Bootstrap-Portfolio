@@ -12,11 +12,11 @@ https://claramunro.github.io/bootstrap-portfolio/
 
 ## Setup/Installation Requirements
 
-git clone https://github.com/claramunro/bootstrap-portfolio.git
+**git clone** https://github.com/claramunro/bootstrap-portfolio.git
 
-cd bootstrap-portfolio
+**cd** bootstrap-portfolio
 
-open index.html
+**open** index.html
 
 
 * HTML5, CSS3
