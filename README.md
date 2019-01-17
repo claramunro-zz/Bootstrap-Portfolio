@@ -13,7 +13,9 @@ https://claramunro.github.io/bootstrap-portfolio/
 ## Setup/Installation Requirements
 
 git clone https://github.com/claramunro/bootstrap-portfolio.git
+
 cd bootstrap-portfolio
+
 open index.html
 
 * HTML5, CSS3
