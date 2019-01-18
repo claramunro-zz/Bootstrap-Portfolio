@@ -18,6 +18,7 @@ https://claramunro.github.io/bootstrap-portfolio/
 
 **open** index.html
 
+## Technologies Used
 
 * HTML5, CSS3
 * Bootstrap 4
