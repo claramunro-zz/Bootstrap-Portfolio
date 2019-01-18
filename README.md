@@ -34,4 +34,4 @@ Contact me on Github
 
 ### License
 
-Copyright (c) 2019 -Clara Munro
+Copyright (c) 2019 **Clara Munro**
