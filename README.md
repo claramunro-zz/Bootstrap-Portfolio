@@ -22,14 +22,15 @@ https://claramunro.github.io/bootstrap-portfolio/
 
 * HTML5, CSS3
 * Bootstrap 4
-* popper.js
-* font awesome
-* google fonts
+* Popper.js
+* jQuery.js
+* Font Awesome
+* Google Fonts
 
 
-## Support and contact details
+## Support & Contact Details
 
-contact me on github
+Contact me on Github
 
 ### License
 
